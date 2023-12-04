@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-*My favorite series is Never have I eveR*
+*My favorite series is Never have I ever*
